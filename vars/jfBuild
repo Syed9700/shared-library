@@ -1,1 +1,1 @@
-Sudo docker start artifactory
+docker start artifactory
