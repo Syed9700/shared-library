@@ -1,2 +1,2 @@
-cd /jfrog
+cd jfrog
 docker start artifactory
