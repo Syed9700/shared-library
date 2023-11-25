@@ -1,2 +1,1 @@
-cd jfrog
-docker start artifactory
+docker start artifactory/
